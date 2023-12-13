@@ -1,0 +1,3 @@
+[submodule "hello-sql"]
+	path = hello-sql
+	url = https://github.com/mouredev/hello-sql
